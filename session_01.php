@@ -16,8 +16,8 @@
  </p>
   <p>
    <label for='drop_down> Vælg</label>
-   <option type= '' name='art_director' id='art_director>
-   <option type=''  name='tech' id='tech>
+   <option type= '' name='art_director' id='art_director'>
+   <option type=''  name='tech' id='tech'>
    <option type=''  name='design' id='tech'>
    <option type=''  name='communication' id='communcation'>
  </p>
